@@ -1,4 +1,4 @@
-## Patitas Felices Repositorio
+## Patitas Felices Repositorio 2025
 Proyecto del equipo Patitas Felices — gestión y desarrollo colaborativo
 
 ## Estructura del repositorio
